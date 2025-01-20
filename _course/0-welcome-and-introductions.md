@@ -57,10 +57,10 @@ We believe the primary purpose of an education is to train you to be able to thi
 We rarely give out grades below a C and if you consistently submit work, participate in discussions, and do your best you are very likely to get an A or a B in the course.
  
 Your final grade will be weighted as:
-- Homework: 40% 
-- Quizzes: 10%
+- Homework: 30% 
+- Quizzes: 30% (10% each)
 - Preparedness/attendance: 30%
-- Final presentation: 20%
+- Final presentation: 10%
 - 2 extra credit assignment opportunities to boost your grade up to 2%
 
 ### 0.3.1 Homework Assignments
