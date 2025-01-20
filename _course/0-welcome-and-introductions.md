@@ -42,7 +42,7 @@ TA: Rafael dos Santos Peixoto
 
 ## 0.3 Course logistics
 	
-8 week course, 3 classes per week, 1 to 2 homework assignments per week, 2 quizzes, 1 final presentation, 2 extra credit assignments. An approximate course schedule is provide below (subject to change based on class progress and interests):
+8 week course, 3 classes per week, 1 to 2 homework assignments per week, 3 quizzes, 1 final presentation, 2 extra credit assignments. An approximate course schedule is provide below (subject to change based on class progress and interests):
 
 ![EN.580.428 Genomic Data Visualization course schedule]({{ site.baseurl }}/assets/images/lesson-0-course-schedule.png)
 
