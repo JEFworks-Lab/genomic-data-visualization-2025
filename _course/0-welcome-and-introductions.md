@@ -163,6 +163,6 @@ See former TA Kalen Clifton's notes on Github: [Git_Tutorial.md (click to downlo
 
 `HW_0` [genomic-data-visualization-HW_0.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_0.pptx)
 
-If you did not finish in class, your homework assignment will be to create a Github account and make pull request with your self introduction (due Wednesday).
+If you did not finish in class, your homework assignment will be to create a Github account and make pull request with your self introduction (due Thursday midnight).
 
 To get a head start for next class, your additional homework assignment will be to install R and [RStudio](https://www.rstudio.com/) (due next class).
