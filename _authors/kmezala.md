@@ -2,7 +2,7 @@
 layout: profile
 name: Kevin Meza Landeros
 jhed: kmezala1
-avatar: '/profiles/kmezala.jpeg'
+avatar: '/profiles/kmezala.jpg'
 email: kmezala@jh.edu
 github: https://github.com/KevinMLanderos
 linkedin: https://www.linkedin.com/in/kevin-meza-landeros-658093238/
