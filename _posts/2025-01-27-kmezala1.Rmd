@@ -1,5 +1,5 @@
 ---
-title: "Homework 1 Submission"
+title: "Spotting T-cells in Pikachu dataset"
 author: "Kevin Meza Landeros"
 layout: post
 jhed: kmezala1
@@ -7,27 +7,8 @@ categories: HW1
 image: homework/hw1/hw1_kmezala1.png
 featured: no
 ---
-homework/hw[N]/ folder using /hw[N]/ folder using hw[N]_[jhed].png
+
 # Homework 1
-
-```{r}
-# Import libraries
-library(ggplot2)
-library(tidyverse)
-```
-
-Explore dataset
-
-```{r}
-# Read data
-file <- '/Users/kmlanderos/Documents/Johns_Hopkins/Spring_2025/Genomic_Data_Visualization/genomic-data-visualization-2025/data/pikachu.csv.gz'
-data <- read.csv(file, row.names=1)
-
-# Number of cells
-nrow(data)
-# Number of genes
-ncol(data[,6:ncol(data)])
-```
 
 ### 1. What data types are you visualizing?
 I am visualizing quantitative data of the expression count of CD3D and PRF1 genes (2 quantitative variables) for each cell. Also, I am showing spatial data regarding the x,y centroid positions for each cell.
@@ -44,6 +25,20 @@ My plot is using the similarity principle
 
 ### 5. Code 
 ```{r stats}
+# Import libraries
+library(ggplot2)
+library(tidyverse)
+
+# Read data
+file <- '/Users/kmlanderos/Documents/Johns_Hopkins/Spring_2025/Genomic_Data_Visualization/genomic-data-visualization-2025/data/pikachu.csv.gz'
+data <- read.csv(file, row.names=1)
+
+# Number of cells
+nrow(data)
+# Number of genes
+ncol(data[,6:ncol(data)])
+
+# Create plot
 data %>% arrange(CD3D) %>% mutate(cell_area=log2(cell_area), CD8_CD4_ratio=CD8A/CD4) %>%
   ggplot(aes(x=aligned_x, y=aligned_y, col=CD3D)) + 
     scale_colour_gradient(low = 'lightgrey', high='red') + 
