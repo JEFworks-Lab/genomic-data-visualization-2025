@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Lesson 3: Quanlity control and Summary Statistics"
+title:  "Lesson 3: Quality Control and Summary Statistics"
 order: 3
 ---
 
