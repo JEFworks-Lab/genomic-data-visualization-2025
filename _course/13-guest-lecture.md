@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lesson 15: Guest Lecture"
-order: 15
+title:  "Lesson 13: Guest Lecture"
+order: 13
 ---
 
 # Lecture 

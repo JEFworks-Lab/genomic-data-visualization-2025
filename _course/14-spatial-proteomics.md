@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lesson 12: Spatial Proteomics"
-order: 12
+title:  "Lesson 14: Spatial Proteomics"
+order: 14
 ---
 
 # Lecture
@@ -20,9 +20,9 @@ Our in-class hands-on component will involve analyzing a spatial proteomics data
 
 # Class Lesson Notes
 
-Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_12.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_12.pptx)
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_14.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_14.pptx)
 
-Prof. Fan’s code from class: [code-lesson-12.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-12.R) 
+Prof. Fan’s code from class: [code-lesson-14.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-14.R) 
 
 ---
 

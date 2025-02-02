@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lesson 14: Review and quiz"
-order: 14
+title:  "Lesson 16: Review and quiz"
+order: 16
 ---
 
 # Lecture
@@ -20,7 +20,7 @@ TDB
 
 # Class Notes
 
-Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_14.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_14.pptx)
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_16.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_16.pptx)
 
 ---
 

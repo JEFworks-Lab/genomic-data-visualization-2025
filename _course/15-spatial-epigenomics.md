@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lesson 13: Spatial Epigenomics"
-order: 13
+title:  "Lesson 15: Spatial Epigenomics"
+order: 15
 ---
 
 # Lecture
@@ -20,9 +20,9 @@ Our in-class hands-on component will involve analyzing a mystery spatial omics d
 
 # Class Notes
 
-Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_13.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_13.pptx)
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_15.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_15.pptx)
 
-Prof. Fan’s code from class: [code-lesson-13.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-13.R) 
+Prof. Fan’s code from class: [code-lesson-15.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-15.R) 
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lesson 7: Differential Gene Expression"
-order: 7
+title:  "Lesson 8: Differential Gene Expression"
+order: 8
 ---
 
 # Lecture
@@ -20,9 +20,9 @@ Our in-class hands-on component will analyze our spatial transcriptomics dataset
 
 # Class Notes
 
-Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_7.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_7.pptx)
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_8.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_8.pptx)
 
-Prof. Fan’s code from class: [code-lesson-7.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-7.R)
+Prof. Fan’s code from class: [code-lesson-8.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-8.R)
 
 ---
 
