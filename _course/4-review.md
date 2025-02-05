@@ -10,8 +10,6 @@ order: 4
 
 We will focus on reviewing concepts in data visualization theory and spatial transcriptomics presented so far.
 
-The original content on summary statistics and QC will be delayed until next class: we should understand sources of quality variability in spatially resolved transcriptomics data, how to evaluate the quality of spatially resolved transcriptomic data and use data visualizations to assist us in this assessment. 
-
 ---
 
 # Hands-on Component
