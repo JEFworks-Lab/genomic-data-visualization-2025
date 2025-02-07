@@ -28,8 +28,4 @@ Prof. Fan’s code from class: [code-lesson-7.R (click to download)]({{ site.bas
 
 # Homework Assignment
 
-Make another student’s data visualization from the 'opposite team' using your spatial transcriptomics data. Does your visualization make salient the same points from the original data visualization? Why or why not?
-
-Additional details: [genomic-data-visualization-HW_3.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_3.pptx)
-
-Use the same process from previous HWs for what is expected and how to submit your homework to the folder `hw3/`.
+None.
