@@ -28,7 +28,7 @@ Prof. Fan’s code from class: [code-lesson-9.R (click to download)]({{ site.bas
 
 # Homework Assignment
 
-None. Complete `HW4` if you have not done so already. 
+None. Complete `HW3` if you have not done so already. 
 
 
 
