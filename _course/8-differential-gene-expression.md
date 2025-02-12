@@ -28,9 +28,9 @@ Prof. Fan’s code from class: [code-lesson-8.R (click to download)]({{ site.bas
 
 # Homework Assignment
 
-Put everything you’ve learned together: perform clustering analysis, differential expression, visualize results in reduced dimensional space and physical space, interpret your cluster identified.
+Put everything you’ve learned together! Identify and characterize ONE transcriptionally distinct cluster of cells (or spots) in your data.
 
-Additional details: [genomic-data-visualization-HW_4.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_4.pptx)
+Additional details: [genomic-data-visualization-HW_3.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_3.pptx)
 
 
 
