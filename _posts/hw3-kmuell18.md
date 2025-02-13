@@ -9,7 +9,7 @@ featured: false
 ---
 This visualization examines the expression of GJB2 (Gap Junction Protein Beta 2), a gene associated with intercellular communication and epithelial differentiation, within a breast tissue sample. GJB2 encodes connexin 26, a protein that forms gap junctions and facilitates direct intercellular signaling, playing essential roles in epithelial homeostasis, development, and cancer progression. The visualization provides evidence for the identity and biological relevance of the cluster of interest, supporting the hypothesis that it represents an epithelial or luminal progenitor cell population.
 
-#Cluster Analysis:
+# Cluster Analysis:
 Panel A (tSNE Clustering of Cells) shows a well-defined cluster of interest in reduced dimensional space using tSNE. After performing k-means clustering (k=6), color was used as a visual channel to distinguish the cluster of interest from the rest of the data. The cluster is distinct from the rest of the dataset, suggesting a unique transcriptional signature. 
 
 Panel B (GJB2 Expression in tSNE Space) visualizes GJB2 expression levels across all cells, revealing strong enrichment in a specific subpopulation. This suggests a functional role for GJB2 in defining this cell type. A hue gradient was employed to emphasize high and low expression levels across the dataset. 
@@ -18,24 +18,24 @@ Panels C (Cluster Localization in Physical Space) and D (GJB2 Spatial Expression
 
 Panel E  is a Volcano plot of Differential Expression. It highlights GJB2 as significantly upregulated in this cluster compared to others, supporting its role as a marker of the identified cell type. Each point represents a gene, with hue encoding expression status—blue for upregulated, orange for downregulated, and grey for non-significant genes. Gestalt’s principle of proximity helps viewers quickly identify gene clusters with similar expression trends, while labeled genes like GJB2 enhance readability and interpretation.
 
-#Cluster Interpretation:
+# Cluster Interpretation:
 The study by Smith et al. (1998) explores GJB2-related autosomal recessive nonsyndromic hearing loss (GJB2-AR NSHL), specifically looking into the gene’s critical role in sensory epithelial function. GJB2 encodes Connexin 26, a protein essential for forming gap junctions that mediate intercellular communication, particularly in epithelial cells. This importance is further supported by Oguchi et al. (2005), whose findings on subcellular localization of mutant Connexin 26 proteins suggest that intact gap junction networks are essential for epithelial function. Given that GJB2 is highly expressed in epithelial cells and maintains tissue integrity, its significant upregulation in our cluster of interest strongly suggests that these cells belong to an epithelial lineage.
 
 The strong expression of GJB2 in the cluster and its well-documented role as an epithelial differentiation marker further supports the hypothesis that these cells maintain epithelial characteristics. Additionally, GJB2 is highly expressed in luminal progenitor cells and epithelial tissues, particularly in mammary gland development and early-stage breast cancer, which aligns with our observed clustering patterns. The spatial distribution of this cluster (Panels C & D) aligns with known epithelial structures in breast tissue, reinforcing that these cells are part of an epithelial network rather than a diffuse stromal population. Furthermore, the absence of mesenchymal markers and immune markers in this cluster rules out alternative cell-type identities, strengthening the conclusion that this cluster represents an epithelial/luminal progenitor population.
 Based on the distinct clustering pattern, upregulation of GJB2, and its established role in epithelial integrity and sensory function, this cluster could represent an epithelial-like cell population, potentially involved in sensory communication or tissue barrier functions. The evidence from genomic studies, protein localization research, and spatial tissue analysis strongly suggests that this cluster is not just epithelial but may play a specialized role in intercellular signaling, similar to its role in sensory epithelial tissues. Further investigation into co-expressed genes and functional assays would provide deeper insight into the exact nature of these cells and their role within the tissue microenvironment.
 
-#Sources
-*Smith RJH, Azaiez H, Booth K. GJB2-Related Autosomal Recessive Nonsyndromic Hearing Loss. 1998 Sep 28 [Updated 2023 Jul 20]. In: Adam MP, Feldman J, Mirzaa GM, et al., editors. GeneReviews® [Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available from: https://www.ncbi.nlm.nih.gov/books/NBK1272/
+# Sources
+* Smith RJH, Azaiez H, Booth K. GJB2-Related Autosomal Recessive Nonsyndromic Hearing Loss. 1998 Sep 28 [Updated 2023 Jul 20]. In: Adam MP, Feldman J, Mirzaa GM, et al., editors. GeneReviews® [Internet]. Seattle (WA): University of Washington, Seattle; 1993-2025. Available from: https://www.ncbi.nlm.nih.gov/books/NBK1272/
 
-*Oguchi, T., Ohtsuka, A., Hashimoto, S. et al. Clinical features of patients with GJB2 (connexin 26) mutations: severity of hearing loss is correlated with genotypes and protein expression patterns. J Hum Genet 50, 76–83 (2005). https://doi.org/10.1007/s10038-004-0223-7
+* Oguchi, T., Ohtsuka, A., Hashimoto, S. et al. Clinical features of patients with GJB2 (connexin 26) mutations: severity of hearing loss is correlated with genotypes and protein expression patterns. J Hum Genet 50, 76–83 (2005). https://doi.org/10.1007/s10038-004-0223-7
 
-*The Human Protein Atlas - GJB2 Single Cell and Tissue Expression. https://www.proteinatlas.org/ENSG00000165474-GJB2
+* The Human Protein Atlas - GJB2 Single Cell and Tissue Expression. https://www.proteinatlas.org/ENSG00000165474-GJB2
 
-*Zhang et al. (2021). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8416790/
+* Zhang et al. (2021). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8416790/
 
-*Naoi et al. (2016). https://www.nature.com/articles/srep33860
+* Naoi et al. (2016). https://www.nature.com/articles/srep33860
 
-*Schalper et al. (2017). https://www.frontiersin.org/articles/10.3389/fimmu.2017.01139/full 
+* Schalper et al. (2017). https://www.frontiersin.org/articles/10.3389/fimmu.2017.01139/full 
 
 
 
