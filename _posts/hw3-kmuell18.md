@@ -3,8 +3,8 @@ layout: post
 title:  "Exploring GJB2 Expression in Breast Cancer Tissue Through Data Visualization"
 author: Kamie Mueller
 jhed: kmuell18
-categories: [ HW2 ]
-image: homework/hw2/hw2_kmuell18.png
+categories: [ HW3 ]
+image: homework/hw3/hw3_kmuell18.png
 featured: false
 ---
 This visualization examines the expression of GJB2 (Gap Junction Protein Beta 2), a gene associated with intercellular communication and epithelial differentiation, within a breast tissue sample. GJB2 encodes connexin 26, a protein that forms gap junctions and facilitates direct intercellular signaling, playing essential roles in epithelial homeostasis, development, and cancer progression. The visualization provides evidence for the identity and biological relevance of the cluster of interest, supporting the hypothesis that it represents an epithelial or luminal progenitor cell population.
