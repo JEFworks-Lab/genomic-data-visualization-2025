@@ -20,7 +20,7 @@ None. Quiz.
 
 # Class Notes
 
-Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_10.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_10.pptx)
+TA Caleb’s notes from class: [genomic-data-visualization-Lesson_10.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_10.pptx)
 
 ---
 
