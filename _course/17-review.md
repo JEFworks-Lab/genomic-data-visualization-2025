@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lesson 16: Review and quiz"
-order: 16
+title:  "Lesson 17: Review and quiz"
+order: 17
 ---
 
 # Lecture
