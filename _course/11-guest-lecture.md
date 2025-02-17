@@ -10,6 +10,11 @@ order: 11
 
 A guest lecturer will be giving a guest lecture on their research.
 
+---
+
+# Class Notes
+
+Lyla Atta’s slides from class: [genomic-data-visualization-Lesson_11.pdf (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_11.pdf)
 
 ---
 
