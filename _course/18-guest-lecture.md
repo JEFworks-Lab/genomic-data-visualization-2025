@@ -9,4 +9,3 @@ order: 18
 ## Learning objectives
 
 A guest lecturer will be giving a guest lecture on their research.
-

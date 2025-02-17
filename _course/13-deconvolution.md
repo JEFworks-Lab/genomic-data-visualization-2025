@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lesson 12: Deconvolution"
-order: 12
+title:  "Lesson 13: Deconvolution"
+order: 13
 ---
 
 # Lecture

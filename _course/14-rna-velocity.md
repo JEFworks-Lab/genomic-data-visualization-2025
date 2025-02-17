@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lesson 9: RNA Velocity"
-order: 9
+title:  "Lesson 14: RNA Velocity"
+order: 14
 ---
 
 # Lecture 

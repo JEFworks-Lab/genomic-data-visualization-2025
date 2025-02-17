@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lesson 13: Guest Lecture"
-order: 13
+title:  "Lesson 9: Guest Lecture"
+order: 9
 ---
 
 # Lecture 
@@ -9,3 +9,4 @@ order: 13
 ## Learning objectives
 
 A guest lecturer will be giving a guest lecture on their research.
+

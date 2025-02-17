@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lesson 15: Spatial Epigenomics"
-order: 15
+title:  "Lesson 16: Spatial Epigenomics"
+order: 16
 ---
 
 # Lecture

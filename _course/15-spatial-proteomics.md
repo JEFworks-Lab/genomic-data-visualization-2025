@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lesson 14: Spatial Proteomics"
-order: 14
+title:  "Lesson 15: Spatial Proteomics"
+order: 15
 ---
 
 # Lecture
