@@ -28,9 +28,9 @@ Prof. Fan’s code from class: [code-lesson-11.R (click to download)]({{ site.ba
 
 # Homework Assignment
 
-`HW_5` apply same approach for analyzing your original spatial transcriptomics dataset to the other team's dataset for comparison purposes. 
+`HW_4` apply same approach for analyzing your original spatial transcriptomics dataset to the other team's dataset for comparison purposes. 
 
-See slides for more details on what is expected: [genomic-data-visualization-HW_5.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_5.pptx)
+See slides for more details on what is expected: [genomic-data-visualization-HW_4.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_4.pptx)
 
 ---
 
