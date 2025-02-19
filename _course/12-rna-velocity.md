@@ -30,7 +30,10 @@ Prof. Fan’s code from class: [code-lesson-12.R (click to download)]({{ site.ba
 
 `HW_EC1` Make a plot using `gganimate` for extra credit. See slides for more details on what is expected: [genomic-data-visualization-HW_EC1.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_EC1.pptx)
 
+---
 
+# Additional resources
 
-
-
+- https://gganimate.com/
+- https://jef.works/blog/2021/08/12/story-telling-with-data-visualization/
+- https://jef.works/blog/2020/12/28/animating-the-cell-cycle/
