@@ -14,15 +14,15 @@ By the end of this lesson, we should better understand how multi-cellular pixel-
 
 # Hands-on component
 
-Download the results deconvolution and visualize the results. 
+Perform deconvolution using `STdeconvolve` and interpret results. 
 
 ---
 
 # Class Notes
 
-Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_12.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_12.pptx)
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_13.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_13.pptx)
 
-Prof. Fan’s code from class: [code-lesson-12.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-12.R)
+Prof. Fan’s code from class: [code-lesson-13.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-13.R)
 
 ---
 
