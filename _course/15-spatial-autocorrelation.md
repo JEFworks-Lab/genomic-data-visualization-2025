@@ -28,7 +28,7 @@ Prof. Fan’s code from class: [code-lesson-15.R (click to download)]({{ site.ba
 
 # Homework Assignment
 
-An extra credit homework assignment `EC2` will be to analyze one of your datasets and identify the spatially variable features. See slides for more details on what is expected: [genomic-data-visualization-HW_EC2.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_EC2.pptx)
+None. Complete `HW5` if you have not already done so. 
 
 ---
 
